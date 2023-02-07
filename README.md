@@ -11,7 +11,7 @@
 ### Misc
 * http://www.pythontutor.com/
 * https://pynative.com/
-* https://github.com/TheAlgorithms/Java
+* https://github.com/TheAlgorithms/Python
 * https://github.com/charlax/professional-programming
 
 ## Books
