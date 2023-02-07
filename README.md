@@ -1,12 +1,14 @@
 # Object Oriented Programming (DIEF, UNIMORE)
 
 ## Software, Tutorials, Exercises
+
+### Python
 * [Python Development Kit](https://www.python.org/downloads/)
 * [Python Tutorial](https://docs.python.org/3/tutorial/), [Python API](https://docs.python.org/3/library/)
 * [PyCharm](https://www.jetbrains.com/pycharm/), [PyCharm Resources](https://www.jetbrains.com/pycharm/learn/)
 * [Anaconda](https://www.anaconda.com/products/individual)
 
-## Misc
+### Misc
 * http://www.pythontutor.com/
 * https://pynative.com/
 * https://github.com/TheAlgorithms/Java
